@@ -3,7 +3,7 @@ Extract features from a technical definition provided as *.pdf 2D model
 
 One [technical_drawing.pdf](./samples/sample1.pdf) document is used to generate a vector of N features.  
 
-This features extractor is used a preliminary step to feed a machine learning model described [here](../../../predict_manufacturing_costs/README.md)   
+This features extractor is used a preliminary step to feed a machine learning model described [here](https://github.com/BruSunshine/predict_manufacturing_costs/blob/main/README.md)   
 
 **Format**  
 This files is a pdf \*.pdf format as the most used format in this field but it could also be an image of any type.   
